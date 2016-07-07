@@ -1,0 +1,7 @@
+{
+    "isTesting":false,
+    "rateModel":0,
+    "platforms":[
+                 {"class":"ChartboostAdapter","priority":40,"key1":"54b4cce70d602557872ae66f","key2":"874bd153a2f55974aa72ee20b1f882b44fed4da7"}
+                ]
+}
